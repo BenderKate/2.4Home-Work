@@ -1,4 +1,4 @@
-package ru.netology.Page;
+package ru.netology.page;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
 import static com.codeborne.selenide.Condition.visible;
